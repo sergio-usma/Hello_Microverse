@@ -1,0 +1,8 @@
+body {
+  height: 100vh;
+  background: linear-gradient(black, purple);
+}
+
+.main__title {
+  color: white;
+}
