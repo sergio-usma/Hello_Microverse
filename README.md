@@ -84,12 +84,6 @@ In this project was only used HTML and CSS. More technologies Coming soon.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-
-- [Live Demo Link](https://google.com) (Coming soon)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
